@@ -1,0 +1,2 @@
+# vcard
+initialiazition on
